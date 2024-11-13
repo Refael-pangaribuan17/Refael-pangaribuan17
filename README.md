@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills in DevOps and exploring different tools and technologies in software engineering.<br>👯 I’m looking to collaborate on DevOps projects or any beginner-friendly open-source projects to gain practical experience.<br>🤝 I’m looking for help with understanding best practices in DevOps, automation, and CI/CD pipelines.<br>🌱 I’m currently learning about containerization, cloud services, and automation tools through my college program in D3 Teknologi Komputer and online courses.<br>💬 Ask me about my journey in tech and my goals in DevOps!<br>⚡ Fun fact: I enjoy breaking down complex problems into manageable tasks – it’s like solving a puzzle for me!
+🔭 I’m currently working on improving my skills in DevOps, cybersecurity, and exploring different tools and technologies in software engineering.
+👯 I’m looking to collaborate on DevOps projects, cybersecurity challenges, or any beginner-friendly open-source projects to gain practical experience.
+🤝 I’m looking for help with understanding best practices in DevOps, automation, CI/CD pipelines, and securing infrastructures.
+🌱 I’m currently learning about containerization, cloud services, automation tools, and cybersecurity fundamentals through my college program in D3 Teknologi Komputer and online courses.
+💬 Ask me about my journey in tech, my goals in DevOps, and my interests in cybersecurity!
+⚡ Fun fact: I enjoy breaking down complex problems into manageable tasks – it’s like solving a puzzle for me!
+
+
 
 
 ## 🌐 Socials:
