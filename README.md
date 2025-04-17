@@ -1,14 +1,29 @@
+## 👋 Hi there!
+
 🔭 I’m currently improving my skills in various areas of technology, including software engineering, system automation, and cybersecurity.
 
-👯 I’m open to collaborating on beginner-friendly open-source projects, tech challenges, or anything that helps me grow through practical experience.
+👯 I’m open to collaborating on:
+- Beginner-friendly open-source projects  
+- Tech challenges  
+- Anything that helps me grow through hands-on experience
 
-🤝 I’m eager to learn best practices in software development, system design, automation, and IT infrastructure security.
+🤝 I’m eager to learn more about:
+- Software development best practices  
+- System design and automation  
+- Securing IT infrastructure
 
-🌱 I’m currently studying in the D3 Teknologi Komputer program while also taking online courses to deepen my knowledge in cloud computing, containerization, and cybersecurity fundamentals.
+🌱 I’m currently studying in the **D3 Teknologi Komputer** program and taking online courses focused on:
+- Cloud computing  
+- Containerization  
+- Cybersecurity 
 
-💬 Feel free to ask me about my tech journey, what I'm currently exploring, or how I approach learning new tools and concepts!
+💬 Feel free to ask me about:
+- My tech journey  
+- What I’m currently exploring  
+- How I approach learning new tools and concepts
 
-⚡ Fun fact: I love breaking down complex problems into simpler parts – it's like solving a puzzle!
+⚡ **Fun fact:** I love breaking down complex problems into simpler parts – it's like solving a puzzle!
+
 
 
 
