@@ -1,5 +1,5 @@
+
 ## 👋 Hi there!
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ0OGZtcTk4cTBiaHljYjhheWFrYzVvemc4OXpnb3J5NHg0dTRhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif" width="300"/>
 
 🔭 I’m currently improving my skills in various areas of technology, including software engineering, system automation, and cybersecurity.
 
@@ -45,4 +45,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Refael-Pangaribuan&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ0OGZtcTk4cTBiaHljYjhheWFrYzVvemc4OXpnb3J5NHg0dTRhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif" width="500"/>
